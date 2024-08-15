@@ -1,6 +1,6 @@
 # ADVENTURE GAME
 
-### Adventure Game is a text-based adventure developed in Java, designed with Object-Oriented Programming (OOP) principles. It provides an immersive adventure experience through interactive storytelling.
+##### Adventure Game is a text-based adventure developed in Java, designed with Object-Oriented Programming (OOP) principles. It provides an immersive adventure experience through interactive storytelling.
 
 ## Features
 
